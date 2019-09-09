@@ -1,7 +1,7 @@
 {
   "name": "DevelopmentToogle",
   "description": "Quickly enable and disable the development mode",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "theme": false,
   "require": {
     "piwik": ">=3.11.0,<4.0.0-b1"
