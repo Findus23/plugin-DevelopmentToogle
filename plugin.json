@@ -1,10 +1,10 @@
 {
   "name": "DevelopmentToogle",
   "description": "Quickly enable and disable the development mode",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "theme": false,
   "require": {
-    "piwik": ">=3.11.0,<4.0.0-b1"
+    "matomo": ">=4.0.0-b1,<5.0.0-b1"
   },
   "authors": [
     {
