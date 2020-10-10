@@ -25,7 +25,7 @@ class Menu extends \Piwik\Plugin\Menu
             $additionalParams = ["returnModule" => Piwik::getModule(), "returnAction" => Piwik::getAction(), "devmode" => var_export(!$enabled, true)];
             $menu->registerMenuIcon("Toogle development mode", $iconName);
 
-            $menu->addItem("Toogle development mode", null, $this->urlForDefaultAction($additionalParams), $orderId = 30, $tooltip);
+            $menu->addItem("Toogle development mode", null, $this->urlForDefaultAction($additionalParams), $orderId = 45, $tooltip);
         }
     }
 
