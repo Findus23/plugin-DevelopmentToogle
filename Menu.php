@@ -17,15 +17,15 @@ class Menu extends \Piwik\Plugin\Menu
             $enabled = (bool)Config::getInstance()->Development['enabled'];
             if ($enabled) {
                 $iconName = "icon-lab";
-                $tooltip = "Disable development mode";
+                $tooltip = Piwik::translate("DevelopmentToogle_Disable");
             } else {
                 $iconName = "icon-user";
-                $tooltip = "Enable development mode";
+                $tooltip = Piwik::translate("DevelopmentToogle_Enable");
             }
             $additionalParams = ["returnModule" => Piwik::getModule(), "returnAction" => Piwik::getAction(), "devmode" => var_export(!$enabled, true)];
-            $menu->registerMenuIcon("Toogle development mode", $iconName);
+            $menu->registerMenuIcon(Piwik::translate("DevelopmentToogle_Toggle"), $iconName);
 
-            $menu->addItem("Toogle development mode", null, $this->urlForDefaultAction($additionalParams), $orderId = 45, $tooltip);
+            $menu->addItem(Piwik::translate("DevelopmentToogle_Toggle"), null, $this->urlForDefaultAction($additionalParams), $orderId = 45, $tooltip);
         }
     }
 
