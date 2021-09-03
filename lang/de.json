@@ -1,7 +1,7 @@
 {
     "DevelopmentToogle": {
-        "Enable": "Entwicklermodus aktivieren",
         "Disable": "Entwicklermodus deaktivieren",
+        "Enable": "Entwicklermodus aktivieren",
         "Toggle": "Entwicklermodus umschalten"
     }
 }
