@@ -1,5 +1,10 @@
 ## Changelog
 
+### 0.2.2
+
+Add French, German, Treek and Turkish translations
+
+
 ### 0.2.1
 
 fix order in top menu

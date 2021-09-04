@@ -1,5 +1,7 @@
 # Matomo DevelopmentToogle Plugin
 
+[![Translation status](https://hosted.weblate.org/widgets/matomo/-/communityplugin-developmenttoogle/svg-badge.svg)](https://hosted.weblate.org/projects/matomo/communityplugin-developmenttoogle/)
+
 ## Description
 
 This plugin adds a new icon to the main navbar for admins that quickly toogles the development features.
