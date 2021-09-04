@@ -1,1 +1,7 @@
-{}
+{
+    "DevelopmentToogle": {
+        "Disable": "Geliştirme kipini kapat",
+        "Enable": "Geliştirme kipini aç",
+        "Toggle": "Geliştirme kipini aç/kapat"
+    }
+}
