@@ -1,1 +1,7 @@
-{}
+{
+    "DevelopmentToogle": {
+        "Disable": "開発モードの無効化",
+        "Enable": "開発モードの有効化",
+        "Toggle": "開発モードを切り替えます"
+    }
+}
