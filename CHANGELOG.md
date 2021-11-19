@@ -1,5 +1,10 @@
 ## Changelog
 
+### 0.2.3
+
+add Japanese, Italian, Chinese, Portuguese, Portuguese (Brazil) and Ukrainian translations
+
+
 ### 0.2.2
 
 Add French, German, Treek and Turkish translations
