@@ -1,1 +1,7 @@
-{}
+{
+    "DevelopmentToogle": {
+        "Disable": "Desativar o modo de programação",
+        "Enable": "Ativar o modo de programação",
+        "Toggle": "Alternar o modo de programação"
+    }
+}

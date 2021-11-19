@@ -1,1 +1,7 @@
-{}
+{
+    "DevelopmentToogle": {
+        "Disable": "Disabilita modalità sviluppo",
+        "Enable": "Abilita modalità di sviluppo",
+        "Toggle": "Attiva/disattiva modalità di sviluppo"
+    }
+}
