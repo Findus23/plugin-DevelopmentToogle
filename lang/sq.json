@@ -1,1 +1,7 @@
-{}
+{
+    "DevelopmentToogle": {
+        "Disable": "Çaktivizo mënyrën zhvillim",
+        "Enable": "Aktivizo mënyrën zhvillim",
+        "Toggle": "Aktivizo/Çaktivizo mënyrën zhvillim"
+    }
+}
