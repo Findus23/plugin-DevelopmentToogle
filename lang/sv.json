@@ -1,1 +1,7 @@
-{}
+{
+    "DevelopmentToogle": {
+        "Disable": "Inaktivera utvecklingsläge",
+        "Enable": "Aktivera utvecklingsläge",
+        "Toggle": "Växla utvecklingsläge"
+    }
+}
