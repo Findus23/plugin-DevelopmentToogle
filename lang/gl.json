@@ -1,1 +1,7 @@
-{}
+{
+    "DevelopmentToogle": {
+        "Disable": "Desactivalo modo de desenvolvemento",
+        "Enable": "Activalo modo de desenvolvemento",
+        "Toggle": "Alternalo modo de desenvolvemento"
+    }
+}
