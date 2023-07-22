@@ -1,1 +1,7 @@
-{}
+{
+    "DevelopmentToogle": {
+        "Disable": "禁用開發者模式",
+        "Enable": "啓用開發者模式",
+        "Toggle": "切換開發者模式"
+    }
+}

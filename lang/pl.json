@@ -1,1 +1,7 @@
-{}
+{
+    "DevelopmentToogle": {
+        "Disable": "Wyłącz tryb programisty",
+        "Enable": "Włącz tryb programisty",
+        "Toggle": "Przełącz tryb programisty"
+    }
+}
