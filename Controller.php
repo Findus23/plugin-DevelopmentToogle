@@ -5,20 +5,20 @@
 
 namespace Piwik\Plugins\DevelopmentToogle;
 
-use Piwik\Common;
 use Piwik\Config;
 use Piwik\Piwik;
 
 class Controller extends \Piwik\Plugin\Controller
 {
     public function index() {
+        $request = \Piwik\Request::fromRequest();
         Piwik::checkUserHasSuperUserAccess();
-        $devmode = Common::getRequestVar("devmode") == "true";
+        $devmode = $request->getStringParameter("devmode") == "true";
         Config::getInstance()->Development['enabled'] = $devmode;
         Config::getInstance()->Development['disable_merged_assets'] = $devmode;
         Config::getInstance()->forceSave();
-        $returnModule = Common::getRequestVar("returnModule");
-        $returnAction = Common::getRequestVar("returnAction");
+        $returnModule = $request->getStringParameter("returnModule");
+        $returnAction = $request->getStringParameter("returnAction");
         $this->redirectToIndex($returnModule, $returnAction);
     }
 }

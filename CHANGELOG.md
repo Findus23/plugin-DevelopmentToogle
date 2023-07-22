@@ -1,5 +1,9 @@
 ## Changelog
 
+### 0.3.0
+
+Matomo 5 compatibility
+
 ### 0.2.3
 
 add Japanese, Italian, Chinese, Portuguese, Portuguese (Brazil) and Ukrainian translations
