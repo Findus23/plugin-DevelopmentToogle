@@ -1,1 +1,7 @@
-{}
+{
+    "DevelopmentToogle": {
+        "Disable": "Desgaitu garapeneko modua",
+        "Enable": "Gaitu garapeneko modua",
+        "Toggle": "Txandakatu garapeneko modua"
+    }
+}
