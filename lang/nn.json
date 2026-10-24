@@ -1,1 +1,7 @@
-{}
+{
+    "DevelopmentToogle": {
+        "Disable": "Skru av utviklingsmodus",
+        "Enable": "Skru på utviklingsmodus",
+        "Toggle": "Slå utviklingsmodus av eller på"
+    }
+}

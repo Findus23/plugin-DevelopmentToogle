@@ -1,1 +1,7 @@
-{}
+{
+    "DevelopmentToogle": {
+        "Disable": "Atslēgt izstrādes režīmu",
+        "Enable": "Iespējot izstrādes režīmu",
+        "Toggle": "Pārslēgt izstrādes režīmu"
+    }
+}

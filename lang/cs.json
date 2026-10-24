@@ -1,1 +1,7 @@
-{}
+{
+    "DevelopmentToogle": {
+        "Disable": "Vypnout vývojový režim",
+        "Enable": "Zapnout vývojový režim",
+        "Toggle": "Přepnout vývojový režim"
+    }
+}

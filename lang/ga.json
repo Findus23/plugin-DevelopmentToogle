@@ -1,1 +1,7 @@
-{}
+{
+    "DevelopmentToogle": {
+        "Disable": "Díchumasaigh mód forbartha",
+        "Enable": "Cumasaigh mód forbartha",
+        "Toggle": "Scoránaigh mód forbartha"
+    }
+}
